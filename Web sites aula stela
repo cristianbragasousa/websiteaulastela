@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aula Stella</title>
+  
+</head>
+
+<body>
+  
+
+  <table border="1" width="100%" height="50" bgcolor="" align="center"> 
+<p> <tr>
+     <th colspan="10"  bgcolor="yellow" ><capition> <font color= "black" sinze="22"> <H1 align="center" >Dados de Alunos da FASF</H1> </font> </capition> </th>
+    </tr>
+    <td colspan="10" bgcolor="yellow"> <font color="black" sinze="7" bgcolor="blue" > <H2 align="center" >Inscriçao Jogos Facultativo FASF</H2> </font ></td>
+     
+    <tr>
+     <th  bgcolor="blue">Foto</th> <th bgcolor="blue">Sexo</th> <th bgcolor="blue">Nome</th> <th bgcolor="blue">Idade</th> <th bgcolor="blue">CPF</th> <th bgcolor="blue">Numero</th> <th bgcolor="blue">Endereço</th> <th bgcolor="blue">Cidade</th> <th bgcolor="blue">Esporte Escolhido</th>
+    </tr>
+    <tr> 
+      <td bgcolor="black"> <img src="baixados.jpg" width="100%" height="50" /> </td> </td> <td>Masculino</td> <td>Cristian</td> <td>19</td> <td>16553430634</td> <td>37992321908</td> <td>Rua claudomiro costa pinto 508</td> <td>Luz</td> <td>Futebol</td>
+    </tr> 
+    <tr>  
+      <td bgcolor="black"><img src="baixados.jpg" width="100%" height="50"/></td> <td>Masculino</td> <td>Roberto</td> <td>42</td> <td>76442312389</td> <td>37991323637</td> <td>rua pilar 530</td> <td>Belo Horizonte</td> <td>Peteca</td>
+    </tr>
+    <tr>
+      <td bgcolor="black"><img src="OIP (1).jpg " width="100%" height="50"/></td> <td>Feminino</td> <td>Claudia</td> <td>15</td> <td>16535343063</td> <td>37995898943</td> <td>Rua General Andrade Neves 1033</td> <td>Belo Horizonte</td> <td>Volei</td>
+    </tr>
+    <tr>
+      <td bgcolor="black"><img src="OIP (1).jpg" width="100%" height="50"/></td> <td>Feminino</td> <td>Ana</td> <td>32</td> <td>43353430634</td> <td>37992321908</td> <td>Avenida Bom Despacho 549</td> <td>Luz</td> <td>Peteca</td>
+    </tr>
+    <tr>
+      <td bgcolor="black"><img src="baixados.jpg" width="100%" height="50"/></td> <td>Masculino</td> <td>Ronaldo</td> <td>31</td> <td>83242312389</td> <td>37963323637</td> <td>Rua da Orquideas 05</td> <td>Luz</td> <td>Futebol</td>
+    </tr>
+    <tr>
+      <td bgcolor="black"><img src="OIP (1).jpg" width="100%" height="50"/></td> <td>Feminino</td> <td>Melissa</td> <td>22</td> <td>90235343063</td> <td>37999897943</td> <td>Rua Oscar Trompowsky 55</td> <td>Belo Horizonte</td> <td>Futebol</td>
+    </tr>
+    <tr>
+      <td bgcolor="black"><img src="baixados.jpg" width="100%" height="50"/></td> <td>Masculino</td> <td>Messias</td> <td>18</td> <td>42135343231</td> <td>37993543309</td> <td>Avenida do Contorno 1090</td> <td>Belo Horizonte</td> <td>Volei</td>
+    </tr>
+    
+</table>
+
+<h2>Opções de Esportes para os Jogos Facultativo</h2>
+<ul> 
+  <li> Futebol </li> 
+  <li>Volei</li>
+  <li>Peteca</li>
+  <li>Basquete</li>
+  <li>Queimada</li>
+</ul>
+<p><font color="black" face="arial" size="4">🎉 Evento Esportivo da FASF - 2025 🎉
+
+  Temos o prazer de anunciar que o Evento Esportivo da FASF começará no dia 05 de abril de 2025! 🗓️🏅 Venha participar e torcer pelos atletas em um dia repleto de emoção e atividades esportivas. O evento será realizado no local <a href="https://maps.app.goo.gl/xKB6XFsJxcUUeTAe9">Centro Esportivo Laerton Paulinelli CELP</a> , e promete ser uma experiência inesquecível para todos.
+  
+  Prepare-se para um dia de competição, diversão e muita energia positiva! 🏆🚀 </font></p>
+
+<h2> <a href="https://www.fasf.edu.br/">Faculdade FASF LUZ-MG </a> </h2> </p>
+ 
+</body>
+</html>
